@@ -30,6 +30,7 @@ function Homepage() {
           >
             Created by <span style={{ fontWeight: 700 }}>Saddam</span>
           </span>
+          <span>React auto deployment</span>
           <span style={{ color: 'white', fontSize: '32px' }}>{counter}</span>
           <div
             style={{
